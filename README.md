@@ -1,3 +1,4 @@
+![Uploading IMG_1990.png…]()
 # Fraudulent-operations-analysis-
 Key Findings
 - Most Targeted Amount per Transaction: The dashboard reveals that fraudulent transactions typically range between $1,000 and $15,000. This range suggests that fraudsters are targeting medium to high-value transactions, potentially aiming to maximize their gains while avoiding detection.
